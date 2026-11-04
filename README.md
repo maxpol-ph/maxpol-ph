@@ -16,6 +16,9 @@ I build n8n automation and AI agents - and I stream while I do it.
 
 What I work with: n8n - AI agents - API integrations - RAG - automation for small business
 
+**Portfolio - five real builds with numbers:** https://maxpol-ph.github.io/
+
+
 **Instagram:** instagram.com/automate_n8n
 
 **Facebook:** https://www.facebook.com/profile.php?id=61583239214706&rdid=DPLxowsgDWqvI9u9
